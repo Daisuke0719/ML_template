@@ -1,0 +1,3 @@
+defaults:
+  - model: xgboost
+  - experiment_info: exp1
